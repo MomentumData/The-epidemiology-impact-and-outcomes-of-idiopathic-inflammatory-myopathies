@@ -6,8 +6,8 @@ All the codelists utilised for data extraction underwent the rigorous quality co
 
 ## Algorithms for identification
 
-### Idiopathic inflammatory myopathy
-Idiopathic inflammatory myopathy will be identified and defined using [clinical diagnosis code set](https://github.com/MomentumData/Momentum-Data-Codelists/blob/e324df8109e26e9bebd1f891340a12cf711dfa02/Conditions/IIM%20(Idiopathic%20Inflammatory%20Myopathies)/idiopathic_inflammatory_myopathies_ICD10_code_set.csv) (_Myositis, unspecified only to be considered if associated to an interstitial lung disease code (J84.1, J84.0, and J99.1)_) made in secondary care using ICD-10 code set developed in recent research by the study team[^1]
+### Idiopathic inflammatory myopathy (IIM)
+IIM will be identified and defined using [clinical diagnosis code set](https://github.com/MomentumData/Momentum-Data-Codelists/blob/e324df8109e26e9bebd1f891340a12cf711dfa02/Conditions/IIM%20(Idiopathic%20Inflammatory%20Myopathies)/idiopathic_inflammatory_myopathies_ICD10_code_set.csv) (_Myositis, unspecified only to be considered if associated to an interstitial lung disease code (J84.1, J84.0, and J99.1)_) made in secondary care using ICD-10 code set developed in recent research by the study team[^1]
 
 For the full list of codes:
 - [Adult dermatomyositis](https://github.com/MomentumData/Momentum-Data-Codelists/blob/e324df8109e26e9bebd1f891340a12cf711dfa02/Conditions/IIM%20(Idiopathic%20Inflammatory%20Myopathies)/Adult%20Dermatomyositis/adult_dermatomyositis_ICD10.csv)
@@ -29,11 +29,38 @@ Additional case identification based on underlying subtype will be performed usi
 - [Paraneoplastic dermatomyositis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/e324df8109e26e9bebd1f891340a12cf711dfa02/Conditions/IIM%20(Idiopathic%20Inflammatory%20Myopathies)/Paraneoplastic%20Dermatomyositis)
 - [Paraneoplastic polymyositis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/e324df8109e26e9bebd1f891340a12cf711dfa02/Conditions/IIM%20(Idiopathic%20Inflammatory%20Myopathies)/Paraneoplastic%20Polymyositis)
 
+### Systemic lupus erythematous (SLE)
+- People identified with a diagnosis code for [SLE](https://github.com/MomentumData/Momentum-Data-Codelists/tree/e324df8109e26e9bebd1f891340a12cf711dfa02/Conditions/SLE%20(Systemic%20Lupus%20Erythematosus)) in primary or secondary care.
 
+### Rheumatoid arthritis (RA)
+- People identified with a diagnosis code for [RA](https://github.com/MomentumData/Momentum-Data-Codelists/tree/e324df8109e26e9bebd1f891340a12cf711dfa02/Conditions/RA%20(Rheumatoid%20Arthritis)) in primary or secondary care, and no alternative diagnosis for [psoriatic arthritis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/e324df8109e26e9bebd1f891340a12cf711dfa02/Conditions/PsA%20(Psoriatic%20Arthritis)) or [ankylosing spondylitis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/e324df8109e26e9bebd1f891340a12cf711dfa02/Conditions/AS%20(Ankylosing%20Spondylitis)).
 
+### Haematological cancers
+People identified with a diagnosis code for [haematological cancer]() in primary or secondary care.
 
+### Solid cancers
+People identified with a diagnosis code for [solid cancer]() in primary or secondary care.
 
+### Interstitial lung disease (ILD)
+People identified with a diagnosis code for [ILD]() in primary or secondary care.
 
+### IIM associated ILD
+People identified with a diagnosis code for [ILD]() in primary or secondary care.
+
+### Pulmonary hypertension
+People identified with a diagnosis code for [ILD]() in primary or secondary care.
+
+### Dysphagia
+People identified with a diagnosis code for [ILD]() in primary or secondary care.
+
+### Myocarditis
+People identified with a diagnosis code for [ILD]() in primary or secondary care.
+
+### Depression
+
+### Anxiety
+
+### Idiopathic inflammatory myopathy symptoms
 
 
 

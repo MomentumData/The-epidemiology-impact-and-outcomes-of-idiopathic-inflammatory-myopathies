@@ -7,7 +7,7 @@ All the codelists utilised for data extraction underwent the rigorous quality co
 ## Algorithms for identification
 
 ### Idiopathic inflammatory myopathy (IIM)
-IIM will be identified and defined using [clinical diagnosis code set](https://github.com/MomentumData/Momentum-Data-Codelists/blob/e324df8109e26e9bebd1f891340a12cf711dfa02/Conditions/IIM%20(Idiopathic%20Inflammatory%20Myopathies)/idiopathic_inflammatory_myopathies_ICD10_code_set.csv) (_Myositis, unspecified only to be considered if associated to an interstitial lung disease code (J84.1, J84.0, and J99.1)_) made in secondary care using ICD-10 code set developed in recent research by the study team[^1]
+IIM will be identified and defined using [clinical diagnosis code set]([https://github.com/MomentumData/Momentum-Data-Codelists/blob/e324df8109e26e9bebd1f891340a12cf711dfa02/Conditions/IIM%20(Idiopathic%20Inflammatory%20Myopathies)/idiopathic_inflammatory_myopathies_ICD10_code_set.csv](https://github.com/MomentumData/Momentum-Data-Codelists/blob/main/Conditions/IIM%20(Idiopathic%20Inflammatory%20Myopathies)/idiopathic_inflammatory_myopathies_ICD10_code_set.csv)) (_Myositis, unspecified only to be considered if associated to an interstitial lung disease code (J84.1, J84.0, and J99.1)_) made in secondary care using ICD-10 code set developed in recent research by the study team[^1]
 
 For the full list of codes:
 - [Adult dermatomyositis](https://github.com/MomentumData/Momentum-Data-Codelists/blob/e324df8109e26e9bebd1f891340a12cf711dfa02/Conditions/IIM%20(Idiopathic%20Inflammatory%20Myopathies)/Adult%20Dermatomyositis/adult_dermatomyositis_ICD10.csv)

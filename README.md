@@ -42,13 +42,13 @@ People identified with a diagnosis code for [haematological cancer](https://gith
 People identified with a diagnosis code for [solid cancer](https://github.com/MomentumData/Momentum-Data-Codelists/tree/e324df8109e26e9bebd1f891340a12cf711dfa02/Conditions/Solid%20Cancer) in primary or secondary care.
 
 ### Interstitial lung disease (ILD)
-People identified with a diagnosis code for [ILD](https://github.com/MomentumData/Momentum-Data-Codelists/tree/e324df8109e26e9bebd1f891340a12cf711dfa02/Conditions/Solid%20Cancer) in primary or secondary care.
+People identified with a diagnosis code for [ILD](https://github.com/MomentumData/Momentum-Data-Codelists/tree/cf32fa7b70d7bf2d1d7436262f059c46eb2b2317/Conditions/ILD%20(Interstitial%20Lung%20Disease)) in primary or secondary care.
 
 ### IIM associated ILD
 People identified with a diagnosis code for [IIM associated ILD](https://github.com/MomentumData/Momentum-Data-Codelists/tree/e324df8109e26e9bebd1f891340a12cf711dfa02/Conditions/ILD%20(Interstitial%20Lung%20Disease)/IIM%20Associated%20ILD) in primary or secondary care.
 
 ### Pulmonary hypertension
-People identified with a diagnosis code for [pulmonary hypertension](https://github.com/MomentumData/Momentum-Data-Codelists/tree/e324df8109e26e9bebd1f891340a12cf711dfa02/Conditions/ILD%20(Interstitial%20Lung%20Disease)/IIM%20Associated%20ILD) in primary or secondary care.
+People identified with a diagnosis code for [pulmonary hypertension](https://github.com/MomentumData/Momentum-Data-Codelists/tree/cf32fa7b70d7bf2d1d7436262f059c46eb2b2317/Conditions/Pulmonary%20Hypertension) in primary or secondary care.
 
 ### Dysphagia
 People identified with a diagnosis code for [dysphagia](https://github.com/MomentumData/Momentum-Data-Codelists/tree/e324df8109e26e9bebd1f891340a12cf711dfa02/Conditions/Dysphagia) in primary or secondary care.
